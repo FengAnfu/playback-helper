@@ -1,0 +1,12 @@
+# Local compilation artifacts
+.build/
+*.dSYM/
+
+# macOS metadata and local logs
+.DS_Store
+*.log
+
+# Local credentials and environment files
+.env
+.env.*
+!.env.example

@@ -1,0 +1,22 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "Target player: Continuous playback",
+      "type": "process",
+      "command": "bash",
+      "args": ["${workspaceFolder}/run.sh"],
+      "options": { "cwd": "${workspaceFolder}" },
+      "problemMatcher": [],
+      "presentation": { "reveal": "always", "panel": "dedicated", "focus": true }
+    },
+    {
+      "label": "Target player: Inspect controls (no clicks)",
+      "type": "process",
+      "command": "bash",
+      "args": ["${workspaceFolder}/run.sh", "--inspect"],
+      "options": { "cwd": "${workspaceFolder}" },
+      "problemMatcher": []
+    }
+  ]
+}
