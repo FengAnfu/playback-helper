@@ -36,6 +36,6 @@ The files are unsigned. The launcher's execution-policy setting applies only to 
 
 Once configured, console keys are `p` (pause automation), `r` (resume), and `q` (quit). Stopping automation does not pause an already playing video.
 
-Source and build instructions: https://github.com/FengAnfu/playback-helper/tree/main/cross-platform-release/source/windows
+Source and build instructions: https://github.com/FengAnfu/playback-helper-clean/tree/main/cross-platform-release/source/windows
 
 See the [MIT License](../LICENSE) and [Disclaimer](../DISCLAIMER.md).

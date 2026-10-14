@@ -34,6 +34,6 @@
 
 完成配置后，控制台按键为 `p` 暂停自动操作、`r` 恢复、`q` 退出。停止自动操作不会暂停已播放的视频。
 
-源码及构建说明：https://github.com/FengAnfu/playback-helper/tree/main/cross-platform-release/source/windows
+源码及构建说明：https://github.com/FengAnfu/playback-helper-clean/tree/main/cross-platform-release/source/windows
 
 适用标准 [MIT 许可证](../LICENSE)和英文[免责声明](../DISCLAIMER.md)。
